@@ -33,3 +33,5 @@
 
 # Dir
 Debug/
+.vs/
+enc_temp_folder/
